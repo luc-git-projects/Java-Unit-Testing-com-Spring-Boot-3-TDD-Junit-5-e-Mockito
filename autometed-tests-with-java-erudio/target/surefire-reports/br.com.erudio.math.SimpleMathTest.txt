@@ -1,4 +1,15 @@
 -------------------------------------------------------------------------------
 Test set: br.com.erudio.math.SimpleMathTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.070 s -- in br.com.erudio.math.SimpleMathTest
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.077 s <<< FAILURE! -- in br.com.erudio.math.SimpleMathTest
+br.com.erudio.math.SimpleMathTest.testDivisionByZero -- Time elapsed: 0.038 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: Division by zero should throw an ArithmeticException ==> Expected java.lang.ArithmeticException to be thrown, but nothing was thrown.
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:152)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:73)
+	at org.junit.jupiter.api.AssertThrows.assertThrows(AssertThrows.java:45)
+	at org.junit.jupiter.api.Assertions.assertThrows(Assertions.java:3149)
+	at br.com.erudio.math.SimpleMathTest.testDivisionByZero(SimpleMathTest.java:146)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
