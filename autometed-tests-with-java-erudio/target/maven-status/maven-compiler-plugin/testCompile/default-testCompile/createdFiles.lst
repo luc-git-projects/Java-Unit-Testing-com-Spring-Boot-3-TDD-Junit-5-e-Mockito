@@ -1,3 +1,8 @@
-br/com/erudio/FooBarTest.class
+br/com/erudio/math/SimpleMathTestS3.class
+br/com/erudio/math/MethodOrderedRandonlyTest.class
 br/com/erudio/math/ArraysCompareTest.class
-br/com/erudio/math/SimpleMathTest.class
+br/com/erudio/math/MethodOrderedByName.class
+br/com/erudio/math/MethodOrderedByOrderIndexTest.class
+br/com/erudio/math/DemoRepeatedTest.class
+br/com/erudio/FooBarTest.class
+br/com/erudio/math/SimpleMathTestS4.class

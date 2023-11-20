@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="br.com.erudio.math.ArraysCompareTest" time="0.012" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="br.com.erudio.math.DemoRepeatedTest" time="0.057" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -59,5 +59,19 @@
     <property name="java.class.version" value="65.0"/>
     <property name="argLine" value="--enable-preview"/>
   </properties>
-  <testcase name="testSortPerformance" classname="br.com.erudio.math.ArraysCompareTest" time="0.01"/>
+  <testcase name="testDivisionByZero(RepetitionInfo, TestInfo)[1]" classname="br.com.erudio.math.DemoRepeatedTest" time="0.027">
+    <system-out><![CDATA[Runnig @BeforeEach method!
+Repetition number of times 1 of 3
+]]></system-out>
+  </testcase>
+  <testcase name="testDivisionByZero(RepetitionInfo, TestInfo)[2]" classname="br.com.erudio.math.DemoRepeatedTest" time="0.002">
+    <system-out><![CDATA[Runnig @BeforeEach method!
+Repetition number of times 2 of 3
+]]></system-out>
+  </testcase>
+  <testcase name="testDivisionByZero(RepetitionInfo, TestInfo)[3]" classname="br.com.erudio.math.DemoRepeatedTest" time="0.002">
+    <system-out><![CDATA[Runnig @BeforeEach method!
+Repetition number of times 3 of 3
+]]></system-out>
+  </testcase>
 </testsuite>

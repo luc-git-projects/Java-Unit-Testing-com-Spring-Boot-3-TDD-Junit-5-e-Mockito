@@ -11,11 +11,11 @@ import static java.lang.String.format;
 import org.junit.jupiter.api.DisplayName;
 
 
-public class SimpleMathTest {
+public class SimpleMathTestS3 {
     
     private SimpleMath math;
     
-    public SimpleMathTest() {
+    public SimpleMathTestS3() {
     }
     
     @BeforeAll
