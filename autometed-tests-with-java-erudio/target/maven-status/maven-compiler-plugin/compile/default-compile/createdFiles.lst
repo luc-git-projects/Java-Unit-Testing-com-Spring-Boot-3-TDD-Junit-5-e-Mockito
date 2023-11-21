@@ -1,2 +1,6 @@
+br/com/erudio/service/PersonService.class
 br/com/erudio/math/SimpleMath.class
 br/com/erudio/AutometedTestsWithJavaErudio.class
+br/com/erudio/model/Gender.class
+br/com/erudio/service/PersonServiceImpl.class
+br/com/erudio/model/Person.class

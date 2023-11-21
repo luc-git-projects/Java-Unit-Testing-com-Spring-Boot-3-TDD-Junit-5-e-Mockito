@@ -5,4 +5,5 @@ br/com/erudio/math/MethodOrderedByName.class
 br/com/erudio/math/MethodOrderedByOrderIndexTest.class
 br/com/erudio/math/DemoRepeatedTest.class
 br/com/erudio/FooBarTest.class
+br/com/erudio/service/PersonServiceTest.class
 br/com/erudio/math/SimpleMathTestS4.class

@@ -6,3 +6,4 @@
 /home/luciano/Projects/Java/Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/autometed-tests-with-java-erudio/src/test/java/br/com/erudio/math/MethodOrderedByOrderIndexTest.java
 /home/luciano/Projects/Java/Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/autometed-tests-with-java-erudio/src/test/java/br/com/erudio/FooBarTest.java
 /home/luciano/Projects/Java/Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/autometed-tests-with-java-erudio/src/test/java/br/com/erudio/math/MethodOrderedByName.java
+/home/luciano/Projects/Java/Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/autometed-tests-with-java-erudio/src/test/java/br/com/erudio/service/PersonServiceTest.java
